@@ -19,7 +19,7 @@ export default function TermsOfUse() {
           <div className="h-px bg-white/10 my-6" />
           <p className="text-white/60 text-sm mb-4">Last updated: October 9, 2025</p>
           <p className="text-white/80 leading-relaxed">
-            These Terms of Use ("Terms") govern your access to and use of the Goovi VPN mobile application ("Service"). 
+            These Terms of Use (&quot;Terms&quot;) govern your access to and use of the Goovi VPN mobile application (&quot;Service&quot;). 
             By using the Service, you agree to these Terms.
           </p>
         </div>
@@ -60,7 +60,7 @@ export default function TermsOfUse() {
           content={
             <>
               <p>If Goovi VPN offers paid plans, subscriptions are handled through Google Play Billing.</p>
-              <p className="mt-4">Refunds and renewals follow Google Play's policies.</p>
+              <p className="mt-4">Refunds and renewals follow Google Play&apos;s policies.</p>
             </>
           }
         />
@@ -69,7 +69,7 @@ export default function TermsOfUse() {
           title="5. Limitation of Liability"
           content={
             <>
-              <p>The Service is provided "as is" and "as available."</p>
+              <p>The Service is provided &quot;as is&quot; and &quot;as available.&quot;</p>
               <ul className="list-disc pl-6 space-y-2 mt-4">
                 <li>Goovi makes no guarantees about uptime, performance, or compatibility.</li>
                 <li>We are not liable for any loss of data, profit, or damages arising from your use of the Service.</li>

@@ -30,8 +30,8 @@ export default function AboutUs() {
             <>
               <p>At Goovi, our mission is to empower users with freedom, privacy, and security online.</p>
               <p className="mt-4">We believe everyone deserves the right to browse the internet safely and without restrictions.</p>
-              <p className="mt-4">That's why we built Goovi VPN, a simple yet powerful tool that protects your connection using modern encryption technologies such as WireGuard.</p>
-              <p className="mt-4">We're committed to transparency and never compromising on user privacy.</p>
+              <p className="mt-4">That&apos;s why we built Goovi VPN, a simple yet powerful tool that protects your connection using modern encryption technologies such as WireGuard.</p>
+              <p className="mt-4">We&apos;re committed to transparency and never compromising on user privacy.</p>
               <p className="mt-4">Our system is built on a no-log policy, meaning we do not monitor, track, or store any of your online activities.</p>
             </>
           }
@@ -68,7 +68,7 @@ export default function AboutUs() {
           title="💬 Contact Us"
           content={
             <>
-              <p>We're always happy to hear from our users!</p>
+              <p>We&apos;re always happy to hear from our users!</p>
               <p className="mt-4">For questions, support, or partnership inquiries, contact us at:</p>
               <p className="mt-4">
                 📩 <a href="mailto:support@goovi-vpn.com" className="text-secondary hover:underline">support@goovi-vpn.com</a>

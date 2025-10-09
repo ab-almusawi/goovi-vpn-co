@@ -87,7 +87,7 @@ export default function Home() {
               <div>
                 <h3 className="text-xl font-bold mb-2">No Logging</h3>
                 <p className="text-white/60">
-                  We don't track, monitor, or store any of your online activities. Your privacy is paramount.
+                  We don&apos;t track, monitor, or store any of your online activities. Your privacy is paramount.
                 </p>
               </div>
             </div>

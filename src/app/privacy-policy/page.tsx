@@ -19,7 +19,7 @@ export default function PrivacyPolicy() {
           <div className="h-px bg-white/10 my-6" />
           <p className="text-white/60 text-sm mb-4">Last updated: October 9, 2025</p>
           <p className="text-white/80 leading-relaxed">
-            Goovi ("we", "our", or "us") operates the mobile application Goovi VPN ("the App"). 
+            Goovi (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) operates the mobile application Goovi VPN (&quot;the App&quot;). 
             This Privacy Policy explains how we collect, use, and protect information when you use our VPN service.
           </p>
         </div>
