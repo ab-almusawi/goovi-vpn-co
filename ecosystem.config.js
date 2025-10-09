@@ -2,8 +2,8 @@ module.exports = {
   apps: [{
     name: 'goovi-website',
     script: 'npm',
-    args: 'start',
-    cwd: '/var/www/goovi-website/Goovi_Co',
+    args: 'start -- -p 3001',
+    cwd: '/var/www/goovi-website/goovi-vpn-co',
     instances: 1,
     autorestart: true,
     watch: false,
